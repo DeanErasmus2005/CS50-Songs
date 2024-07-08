@@ -1,0 +1,2 @@
+1. I would calculate the average energy, valence, and danceability of a person’s top 100 songs from the past year, after that I would create an algorithm to determine their "mood".
+2. Because the user might listen to a variety of different genres thus it won't be accurate to average out all 100 songs because of said different genres. A better way to calculate the audio aura is to calculate the averages based off each genre independantly.
